@@ -1,3 +1,5 @@
+# the source code was taken from here: https://aiqm.github.io/torchani/examples/nnp_training_force.html
+
 import torch
 import torchani
 import os
